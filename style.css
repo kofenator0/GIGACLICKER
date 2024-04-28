@@ -1,0 +1,27 @@
+.game{
+    display:flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.shopL{
+    display: flex;
+}
+
+.CookieContainer{
+    width: 50vw;
+    height: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.cookieIMG{
+    width: 25vw;
+}
+
+body{
+    background-image: url("images.jpg")
+}
